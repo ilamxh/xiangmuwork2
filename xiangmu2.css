@@ -1,0 +1,41 @@
+.content-wraper {
+  width: 1400px;
+  height: 650px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+.song-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -12px;
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+.songlistitem {
+  margin: 10px 10px;
+  width: 250px;
+  background-color: white;
+}
+.songlistitem img {
+  width: 240px;
+  height: 240px;
+}
+#songDiv {
+  width: 400px;
+  height: 600px;
+  background-color: blanchedalmond;
+}
+#songDiv .song {
+  height: 50px;
+  width: 100%;
+  margin-top: 3px;
+  background-color: burlywood;
+}
+#geCiDiv{
+  width: 500px;
+  height: auto;
+  background-color: #bfc;
+}
